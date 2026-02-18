@@ -379,9 +379,7 @@ export default function App() {
       </section>
 
       <footer className="footer">
-        <div>
-          If you want a coarser table (Q = 0, 0.5, 1, ...), change <code>step</code> to <code>0.5</code>.
-        </div>
+
       </footer>
     </div>
   );
