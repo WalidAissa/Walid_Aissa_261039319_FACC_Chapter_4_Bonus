@@ -188,7 +188,7 @@ export default function App() {
     <div className="page">
       <header className="header">
         <div>
-          <h1>Firm Model — Interactive Tool</h1>
+          <h1>Walid_Aissa | 261039319 | Firm Model — Interactive Tool</h1>
           <p className="sub">
             Interactive model with sliders for <b>FC, a, b, c, p</b> and automatic charts/markers.
           </p>
